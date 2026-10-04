@@ -1,0 +1,12 @@
+Method: built-in image_gen image editing.
+Status: selected by the user and used for the AppIcon asset catalog in build 3.
+Asset: app-icon-v8-white-background.png
+
+Final prompt:
+Use case: precise-object-edit.
+Make exactly TWO color changes to this attached app icon, preserving all other pixels and design details as closely as possible:
+
+1. Replace the entire periwinkle-blue background OUTSIDE the house illustration with a clean solid opaque WHITE background (#FFFFFF), all the way to the square canvas edges.
+2. Fill the INTERIOR OF THE ROUND CLOCK FACE on the right side of the house with the SAME periwinkle blue that was originally used in the background (approximately #A6B8F7). Keep the clock's black circular outline, black hands, four black tick marks, and the small orange accent dot exactly intact.
+
+Preserve the house's original warm-white body and roof, black contours and their exact thickness, black chimney, left four-pane window, black door and white doorknob, both bushes, illustration size and position, all geometry and layout. Do not remove any elements or simplify the design. The orange clock-rim dot stays orange. Only the background becomes white and the clock face becomes the previous background's blue-purple color. No added text, new decorations, border, drop shadow, or mockup. Same opaque square artwork.
